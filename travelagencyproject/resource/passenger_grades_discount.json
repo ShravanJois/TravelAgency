@@ -1,0 +1,5 @@
+{
+	"STANDARD" : {"discount":0.0},
+	"GOLD" : {"discount":10.0},
+	"PREMIUM" : {"discount":100.0}
+}

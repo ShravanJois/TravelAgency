@@ -1,0 +1,5 @@
+{
+	"Karnataka" : {"destinations":["Bangalore","Coorg","Mysore","Hampi","Gokarna"], "capacity" : 2},
+	"Gujarat" : {"destinations" : ["Ahmedabad","Kutch"], "capacity" : 5},
+	"Tamil_Nadu": {"destinations" : ["Chennai","Ooty"], "capacity" : 20}
+}

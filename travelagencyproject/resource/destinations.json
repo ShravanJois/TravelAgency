@@ -1,0 +1,26 @@
+{
+"Bangalore": {
+"activities" : ["Cubbon Park Picnic","Bangalore Palace Tour"]
+},
+"Coorg": {
+"activities" : ["Coffee Plantation Tour","White Water Rafting in Barapole River"]
+},
+"Mysore": {
+"activities" : ["Mysore Palace Illumination","Chamundi Hill Trek"]
+},
+"Hampi": {
+"activities" : ["Hampi Ruins Exploration","Coracle Ride on Tungabhadra River"]
+},
+"Gokarna": {
+"activities" : ["Beach Yoga and Meditation","Dolphin Watching Boat Tour"]
+},
+"Ahmedabad" : {
+"activities":["Sabarmati Ashram Visit", "Adalaj Stepwell Tour"]},
+"Kutch" : {
+"activities":["White Desert Camping", "Bhuj Handicraft Shopping"]}
+,
+"Chennai": {
+"activities":["Marina Beach Sunset","Kapaleeshwarar Temple Visit"]},
+"Ooty": {
+"activities":["Nilgiri Mountain Railway Ride","Botanical Gardens Exploration"]}
+}

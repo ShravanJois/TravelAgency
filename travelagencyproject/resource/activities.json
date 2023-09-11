@@ -1,0 +1,99 @@
+{
+"Cubbon Park Picnic" : {
+"description": "Enjoy a peaceful day amidst the greenery of Cubbon Park, known for its gardens and tranquil atmosphere.",
+"cost": 500.0,
+"capacity": 1
+},
+"Bangalore Palace Tour" : {
+"description": "Explore the magnificent Bangalore Palace, an architectural marvel with a blend of Tudor and Indian styles.",
+"cost": 300.0,
+"capacity": 25
+},
+
+"Coffee Plantation Tour" : {
+"description": "Dive into the world of coffee with a guided tour through lush coffee plantations.",
+"cost": 800.0,
+"capacity": 20
+},
+"White Water Rafting in Barapole River" : {
+"description": "Experience the thrill of white water rafting in the gushing waters of Barapole River.",
+"cost": 1200.0,
+"capacity": 15
+},
+
+"Mysore Palace Illumination" : {
+"description": "Witness the grandeur of Mysore Palace as it lights up in the evening with thousands of bulbs.",
+"cost": 400.0,
+"capacity": 35
+},
+"Chamundi Hill Trek" : {
+"description": "Embark on a trek to the sacred Chamundi Hill, home to the Chamundeshwari Temple.",
+"cost": 600.0,
+"capacity": 18
+},
+
+"Hampi Ruins Exploration" : {
+"description": "Discover the ancient ruins of Hampi, a UNESCO World Heritage Site, and immerse yourself in history.",
+"cost": 700.0,
+"capacity": 25
+},
+"Coracle Ride on Tungabhadra River" : {
+"description": "Glide on traditional coracles and enjoy the scenic beauty of the Tungabhadra River.",
+"cost": 350.0,
+"capacity": 20
+},
+
+"Beach Yoga and Meditation" : {
+"description": "Find your inner peace with morning yoga and meditation sessions on Gokarna's serene beaches.",
+"cost": 750.0,
+"capacity": 15
+},
+"Dolphin Watching Boat Tour" : {
+"description": "Set sail to spot playful dolphins in the Arabian Sea during a thrilling boat tour.",
+"cost": 600.0,
+"capacity": 12
+},
+"Sabarmati Ashram Visit" : {
+"description": "Explore the historic Sabarmati Ashram, where Mahatma Gandhi lived during India's struggle for independence.",
+"cost": 200.0,
+"capacity": 40
+},
+
+"Adalaj Stepwell Tour" : {
+"description": "Admire the intricate architecture of Adalaj Stepwell, a UNESCO World Heritage Site.",
+"cost": 150.0,
+"capacity": 30
+},
+"White Desert Camping" : {
+"description": "Experience the surreal beauty of the Great Rann of Kutch while camping under the starry sky.",
+"cost": 1000.0,
+"capacity": 20
+},
+"Bhuj Handicraft Shopping" : {
+"description": "Shop for exquisite handicrafts in Bhuj, known for its vibrant textiles and traditional art.",
+"cost": 500.0,
+"capacity": 25
+},
+
+"Marina Beach Sunset" : {
+"description": "Witness a breathtaking sunset at Marina Beach, the second-longest urban beach in the world.",
+"cost": 100.0,
+"capacity": 50
+},
+"Kapaleeshwarar Temple Visit" : {
+"description": "Visit the stunning Kapaleeshwarar Temple, an ancient Dravidian-style masterpiece.",
+"cost": 250.0,
+"capacity": 35
+},
+
+"Nilgiri Mountain Railway Ride" : {
+"description": "Enjoy a scenic journey on the Nilgiri Mountain Railway, a UNESCO World Heritage Site.",
+"cost": 300.0,
+"capacity": 30
+},
+"Botanical Gardens Exploration" : {
+"description": "Explore the beautiful Ooty Botanical Gardens with a wide variety of flora.",
+"cost": 150.0,
+"capacity": 40
+}
+}
